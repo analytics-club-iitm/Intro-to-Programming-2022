@@ -3,6 +3,7 @@
 This repository contains all the slides/notes used during the Introduction to Programming Sessions conducted in 2022.
 The sessions were jointly conducted by Programming, Analytics, CVI, WebOps and Blockchain clubs of CFI, IITM.
 
+To access the session contents (slides), here's the link Google Drive: [Introduction to Programming Sessions](https://drive.google.com/drive/folders/1HtyG9fid5gHpvT-E0oNpnczHIFB1Lk1n?usp=share_link).
 To access the session recordings, here's the link to the YouTube playlist: [Introduction to Programming Sessions](https://youtube.com/playlist?list=PLsJmJdm-3aNKiSkVLCPeNDLGFLd1STRdz).
 
 ## Sessions
