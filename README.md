@@ -13,7 +13,7 @@ To access the session recordings, here's the link to the YouTube playlist: [Intr
 | 1       | December 9th 2022  | Introduction to Programming   | Basics, pseudo-code, Variables, Conditions, Loops | [Session 1](/Session_1/) | [Recording](https://youtu.be/_yxcTuVSGd0) |
 | 2       | December 10th 2022  | Introduction to Python   | Basic Python syntax, Functions, Classes, NumPy  | [Session 2](/Session_2/) | [Recording](https://youtu.be/gITbpA0BH80) |
 | 3       | December 12th 2022  | Introduction to C++   | Basic C++ syntax | [Session 3](/Session_3/) | [Recording](https://youtu.be/m7qHW8DyXCQ) |
-| 4       | December 13th 2022  | Introduction to WebDev  | To be updated.  | To be updated. | To be updated. |
+| 4       | December 13th 2022  | Introduction to WebDev  | HTML, CSS, JS | [Session 4](/Session_4/) | [Recording](https://youtu.be/ILhxvASJRb8) |
 
 
 ## GiT
